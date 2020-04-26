@@ -181,7 +181,7 @@
 // Author
 .author {
   margin-top: 6.3rem;
-  margin-bottom: 7.2rem;
+  margin-bottom: 3.2rem;
   text-align: center;
 
   @include media-query($on-mobile) {
@@ -211,6 +211,26 @@
     opacity: 0.9;
     max-width: 393px;
     line-height: 1.688;
+  }
+}
+
+
+// Title
+.title {
+  margin-bottom: 1.0rem;
+  text-align: center;
+
+  @include media-query($on-mobile) {
+    margin-bottom: 3em;
+  }
+
+  h2 {
+    font-size: 1.7em;
+    margin-bottom: 2px;
+  }
+
+  p {
+    margin: 0 auto;
   }
 }
 
