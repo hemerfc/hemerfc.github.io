@@ -2,7 +2,7 @@
 title: Hemerson Camargo
 permalink: /sobre/
 layout: about
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Pai e marido em tempo integral, além de gamer e geek nas horas vagas. Este espaço existe para registrar alguns pensamentos e códigos escritos durante o processo de pesquisa e aprendizado antes de aplicá-los em produção.
 comments: false
 ---
 
@@ -18,5 +18,5 @@ Você pode [reportar](https://github.com/hemerfc/hemerson.dev/issues/new) algum 
 ##### Conheça mais ✨
 
 - {{ site.author.email }}
-- [@github](https://github.com/{ site.author.username })
-- [@twitter](https://twitter.com/{ site.author.username })
+- [@github](https://github.com/hemerfc)
+- [@twitter](https://twitter.com/hemerfc)
