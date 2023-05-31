@@ -5,7 +5,7 @@ author:
   email: "someone@somewebsite.somedomain"
   url: "https://ashishchaudhary.in/hacker-blog"
 
-baseurl: /
+baseurl: www.optimustec.com.br
 
 source: .
 destination: ./_site
