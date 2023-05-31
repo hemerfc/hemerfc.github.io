@@ -4,9 +4,9 @@ description: "A Jekyll Blog Theme For Hackers"
 author:
   name: "Hemerson Camargo"
   email: "hemerfc@hotmail.com"
-  url: "www.optimustec.com.br"
+  url: "https://www.optimustec.com.br"
 
-baseurl: 
+baseurl: /
 
 source: .
 destination: ./_site
