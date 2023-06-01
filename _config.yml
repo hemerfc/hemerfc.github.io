@@ -1,6 +1,6 @@
 title: Hemerson Camargo - Blog
 repository: hemerfc/hemerfc.github.io
-description: "A Jekyll Blog Theme For Hackers"
+description: "A blog about software development."
 author:
   name: "Hemerson Camargo"
   email: "hemerfc@hotmail.com"
@@ -29,5 +29,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
-year : "2020"
+owner : "Hemerson Camargo"
+year : "2023"

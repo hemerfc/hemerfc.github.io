@@ -1,7 +1,44 @@
 ---
-title: Another Sample Page
+title: Entedendo GObjects
 published: true
 ---
+
+## Introdução:
+
+Estou começando a estudar o GTK4 mas para isso é preciso conhecer a GLib. 
+Este post vai ser um overview sobre o que é o GObject e como ele funciona.
+
+* * *
+## O que é o GObject?
+
+O GObject é uma biblioteca que implementa um sistema de objetos para a linguagem C, ele faz parte da bilioteca GLib e é utilizado por varios softwares como GTK, GStreamer, e diversos aplicativos do projeto Gnome.
+
+Para que já esta familiarizado com o paradigma de orientação a objetos (OO) vai ser mais facil de entener, se voce não esta acostumado a utilizar nenhuma linguagem com OO, recomendo que leia um pouco sobre o assunto antes de continuar.
+
+Recaptulando um pouco sobre a linguagem C, ela é uma linguagem de programação de baixo nivel, ou seja, ela é uma linguagem que esta mais proxima da linguagem de maquina e não possuiu muitos dos recursos que os programados que utilizam linguagem mais "modernas" como Python, Java e C# estão acostumados, como a Orientação a objetos e gerenciamento automatico de mememoria (Garbage Collector).
+
+Não entenda isso como uma critica a linguagem C, enquanto outras linguagens entregam algumas abstrações que simplificam a vida dos desenvolvedores, a linguagem C entrega um controle maior sobre o que esta acontecendo no seu programa, o que pode ser muito util em alguns casos, mas tras uma complexidade maior para o desenvolvedor.
+
+Uma grande vantagem do GObject, que não fica tão clara a primeira vista, é que sendo um sistema de objectos escrito em C, as classes (GObject) definidos em C podem ser usados em qualquer linguagem que possa chamar uma biblioteca em C, e isso inclui praticamente todas as linguagens de programação.
+
+
+* * *
+## Preparando o ambiente de desenvolvimento
+
+
+* * *
+## Primeiro exemplo
+
+
+
+* * *
+## Referencias
+*   [GObject Tutorial](https://docs.gtk.org/gobject) 
+*   [GObject Documentation](https://docs.gtk.org/gobject/tutorial.html)
+*   [GObject Tutorial By ToshioCP](https://github.com/ToshioCP/Gobject-tutorial) 
+
+
+* * *
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
